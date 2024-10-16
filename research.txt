@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Add user authentication feature and update version
+=======
+>>>>>>> parent of 530cccf (User authentication)
