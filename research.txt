@@ -1,1 +1,1 @@
-Add user authentication feature
+Add user authentication feature and update version
